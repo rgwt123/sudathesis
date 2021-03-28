@@ -1,5 +1,5 @@
-# scuthesis
-LaTeX Thesis Template for Soochow University
+# sudathesis
+LaTeX Thesis Template for Soochow University - 苏州大学论文模板
 
 ## 使用方法
 下载压缩文件，上传至overleaf或者自建的sharelatex平台，选择xelatex编译。
